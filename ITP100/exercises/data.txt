@@ -1,0 +1,10 @@
+banana
+bus 
+boat 
+car 
+apple 
+yellow 
+red 
+plane 
+pie 
+cat

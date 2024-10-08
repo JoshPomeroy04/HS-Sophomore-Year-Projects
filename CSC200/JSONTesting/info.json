@@ -1,0 +1,38 @@
+{
+    "continents": [
+        {"continent": "North America",
+        "countries": [
+            {"name": "Antigua and Barbuda", 
+                "capital": "St. John's", 
+                "area": "171 sq mi", 
+                "population": "96,286"
+            },
+            {"name": "The Bahamas",
+                "capital": "Nassau",
+                "area": "5,383 sq mi",
+                "population": "385,637"
+            },
+            {"name": "Barbados",
+                "capital": "Bridgetown",
+                "area": "170 sq mi",
+                "population": "286,641"
+            },
+            {"name": "Belize",
+                "capital": "Belmopan",
+                "area": "8,867 sq mi",
+                "population": "383,071"
+            },
+            {"name": "Canada",
+                "capital": "Ottawa",
+                "area": "3,855,100 sq mi",
+                "population": "37,064,562"
+            },
+            {"name": "Costa Rica",
+                "capital": "San José",
+                "area": "19,700 sq mi",
+                "population": "4,999,441"
+            }
+        ]
+        }
+    ]
+}

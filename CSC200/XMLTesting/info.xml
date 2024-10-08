@@ -1,0 +1,378 @@
+<continents>
+    <continent name = "North America">
+        <countries>
+            <country name = "Antigua and Barbuda">
+                <capital name = "St. John's"/>
+                <area name = '171 sq mi'/>
+                <population name = "96,286"/>
+            </country> 
+            <country name = "The Bahamas">
+                <capital name = "Nassau"/>
+                <area name = "5,383 sq mi"/>
+                <population name = "385,637"/>
+            </country>
+            <country name = "Barbados"> 
+                <capital name = "Bridgetown"/>
+                <area name = "170 sq mi"/>
+                <population name = "286,641"/>
+            </country>
+            <country name = "Belize"> 
+                <capital name = "Belmopan"/>
+                <area name = "8,867 sq mi"/>
+                <population name = "383,071"/>
+            </country>
+            <country name = "Canada"> 
+                <capital name = "Ottawa"/>
+                <area name = "3,855,100 sq mi"/>
+                <population name = "37,064,562"/>
+            </country>
+            <country name = "Costa Rica"> 
+                <capital name = "San José"/>
+                <area name = "19,700 sq mi"/>
+                <population name = "4,999,441"/>
+            </country>
+            <country name = "Cuba">
+                <capital name = "Havana"/>
+                <area name = "42,427 sq mi"/>
+                <population name = "11,338,134"/>
+            </country>
+            <country name = "Dominica">
+                <capital name = "Roseau"/>
+                <area name = "290 sq mi"/>
+                <population name = "71,625"/>
+            </country>
+            <country name = "Dominican Republic">
+                <capital name = "Santo Domingo"/>
+                <area name = "18,792 sq mi"/>
+                <population name = "10,627,141"/>
+            </country>
+            <country name = "El Salvador">
+                <capital name = "San Salvador"/>
+                <area name = "8,124 sq mi"/>
+                <population name = "6,420,746"/>
+            </country>
+            <country name = "Grenada">
+                <capital name = "St. George's"/>
+                <area name = "133 sq mi"/>
+                <population name = "111,454"/>
+            </country>
+            <country name = "Guatemala">
+                <capital name = "Guatemala City"/>
+                <area name = "42,042 sq mi"/>
+                <population name = "17,247,849"/>
+            </country>
+            <country name = "Haiti">
+                <capital name = "Port-au-Prince"/>
+                <area name = "10,710 sq mi"/>
+                <population name = "11,123,178"/>
+            </country>
+            <country name = "Honduras">
+                <capital name = "Tegucigalpa"/>
+                <area name = "43,433 sq mi"/>
+                <population name = "9,587,522"/>
+            </country>
+            <country name = "Jamaica">
+                <capital name = "Kingston"/>
+                <area name = "4,244 sq mi"/>
+                <population name = "2,934,847"/>
+            </country>
+            <country name = "Mexico">
+                <capital name = "Mexico City"/>
+                <area name = "758,449 sq mi"/>
+                <population name = "126,190,788"/>
+            </country>
+            <country name = "Nicaragua">
+                <capital name = "Managua"/>
+                <area name = "50,337 sq mi"/>
+                <population name = "6,465,501"/>
+            </country>
+            <country name = "Panama">
+                <capital name = "Panama City"/>
+                <area name = "29,119 sq mi"/>
+                <population name = "4,176,869"/>
+            </country>
+            <country name = "Saint Kitts and Nevis">
+                <capital name = "Basseterre"/>
+                <area name = "101 sq mi"/>
+                <population name = "52,441"/>
+            </country>
+            <country name = "Saint Lucia">
+                <capital name = "Castries"/>
+                <area name = "208 sq mi"/>
+                <population name = "181,889"/>
+            </country>
+            <country name = "Saint Vincent and the Grenadines">
+                <capital name = "Kingstown"/>
+                <area name = "150 sq mi"/>
+                <population name = "110,211"/>
+            </country>
+            <country name = "Trinidad and Tobago">
+                <capital name = "Port of Spain"/>
+                <area name = "1,980 sq mi"/>
+                <population name = "1,389,843"/>
+            </country>
+            <country name = "United States">
+                <capital name = "Washington, D.C."/>
+                <area name = "3,717,813 sq mi"/>
+                <population name = "327,096,265"/>
+            </country>
+        </countries>
+        <territories>
+            <territory name = "Anguilla">
+                <continentTN name = "North America"/>
+                <countryTN name = "United Kingdom"/>
+                <capitalTN name = "The Valley"/>
+                <areaTN name = "35 sq mi"/>
+                <populationTN name = "14,731"/>
+            </territory>
+            <territory name = "Aruba">
+                <continentTN name = "North America"/>
+                <countryTN name = "Kingdom of the Netherlands"/>
+                <capitalTN name = "Oranjestad"/>
+                <areaTN name = "69 sq mi"/>
+                <populationTN name = "105,845"/>
+            </territory>
+            <territory name = "Bermuda">
+                <continentTN name = "North America"/>
+                <countryTN name = "United Kingdom"/>
+                <capitalTN name = "Hamilton"/>
+                <areaTN name = "21 sq mi"/>
+                <populationTN name = "62,756"/>
+            </territory>
+            <territory name = "Bonaire">
+                <continentTN name = "North America"/>
+                <countryTN name = "Kingdom of the Netherlands"/>
+                <capitalTN name = "Kralendijk"/>
+                <areaTN name = "114 sq mi"/>
+                <populationTN name = "12,093"/>
+            </territory>
+            <territory name = "British Virgin Islands">
+                <continentTN name = "North America"/>
+                <countryTN name = "United Kingdom"/>
+                <capitalTN name = "Road Town"/>  
+                <areaTN name = "58 sq mi"/>
+                <populationTN name = "29,802"/>
+            </territory>
+            <territory name = "Cayman Islands">
+                <continentTN name = "North America"/>
+                <countryTN name = "United Kingdom"/>
+                <capitalTN name = "George Town"/>  
+                <areaTN name = "102 sq mi"/>
+                <populationTN name = "64,174"/>
+            </territory>
+            <territory name = "Clipperton Island">
+                <continentTN name = "North America"/>
+                <countryTN name = "France"/>
+                <capitalTN name = "N/A"/>  
+                <areaTN name = "2.3 sq mi"/>
+                <populationTN name = "0"/>
+            </territory>
+            <territory name = "Curaçao">
+                <continentTN name = "North America"/>
+                <countryTN name = "Kingdom of the Netherlands"/>
+                <capitalTN name = "Willemstad"/>  
+                <areaTN name = "171 sq mi"/>
+                <populationTN name = "162,752"/>
+            </territory>
+            <territory name = "Federal Dependencies of Venezuela">
+                <continentTN name = "North America"/>
+                <countryTN name = "Venezuela"/>
+                <capitalTN name = "Gran Roque"/>
+                <areaTN name = "132 sq mi"/>
+                <populationTN name = "2,155"/>
+            </territory>
+            <territory name = "Greenland">
+                <continentTN name = "North America"/>
+                <countryTN name = "Kingdom of Denmark"/>
+                <capitalTN name = "Nuuk"/>
+                <areaTN name = "836,330 sq mi"/>
+                <populationTN name = "56,564"/>
+            </territory>
+            <territory name = "Guadeloupe">
+                <continentTN name = "North America"/>
+                <countryTN name = "France"/>
+                <capitalTN name = "Basse-Terre"/>
+                <areaTN name = "629 sq mi"/>
+                <populationTN name = "399,848"/>
+            </territory>
+            <territory name = "Martinique">
+                <continentTN name = "North America"/>
+                <countryTN name = "France"/>
+                <capitalTN name = "Fort-de-France"/>
+                <areaTN name = "436 sq mi"/>
+                <populationTN name = "375,673"/>
+            </territory>
+            <territory name = "Montserrat">
+                <continentTN name = "North America"/>
+                <countryTN name = "United Kingdom"/>
+                <capitalTN name = "Plymouth Brades"/>
+                <areaTN name = "39 sq mi"/>
+                <populationTN name = "4,993"/>
+            </territory>
+            <territory name = "Nueva Esparta">
+                <continentTN name = "North America"/>
+                <countryTN name = "Venezuela"/>
+                <capitalTN name = "La Asunción"/>
+                <areaTN name = "444 sq mi"/>
+                <populationTN name = "491,610"/>
+            </territory>
+            <territory name = "Puerto Rico">
+                <continentTN name = "North America"/>
+                <countryTN name = "United States"/>
+                <capitalTN name = "San Juan"/>
+                <areaTN name = "3,420 sq mi"/>
+                <populationTN name = "3,039,596"/>
+            </territory>
+            <territory name = "Saba">
+                <continentTN name = "North America"/>
+                <countryTN name = "Kingdom of the Netherlands"/>
+                <capitalTN name = "The Bottom"/>
+                <areaTN name = "5 sq mi"/>
+                <populationTN name = "1,537"/>
+            </territory>
+            <territory name = "San Andrés and Providencia">
+                <continentTN name = "North America"/>
+                <countryTN name = "Colombia"/>
+                <capitalTN name = "San Andrés"/>
+                <areaTN name = "20 sq mi"/>>
+                <populationTN name = "77,701"/>
+            </territory>
+            <territory name = "Saint Barthélemy">
+                <continentTN name = "North America"/>
+                <countryTN name = "France"/>
+                <capitalTN name = "Gustavia"/>
+                <areaTN name = "8.1 sq mi"/>
+                <populationTN name = "7,448"/>
+            </territory>
+            <territory name = "Saint Martin">
+                <continentTN name = "North America"/>
+                <countryTN name = "France"/>
+                <capitalTN name = "Marigot"/>
+                <areaTN name = "21 sq mi"/>
+                <populationTN name = "29,820"/>
+            </territory>
+            <territory name = "Saint Pierre and Miquelon">
+                <continentTN name = "North America"/>
+                <countryTN name = "France"/>
+                <capitalTN name = "Saint-Pierre"/>
+                <areaTN name = "93 sq mi"/>
+                <populationTN name = "5,849"/>
+            </territory>
+            <territory name = "Sint Eustatius">
+                <continentTN name = "North America"/>
+                <countryTN name = "Kingdom of the Netherlands"/>
+                <capitalTN name = "Oranjestad"/>
+                <areaTN name = "8.1 sq mi"/>
+                <populationTN name = "2,793"/>
+            </territory>
+            <territory name = "Sint Maarten">
+                <continentTN name = "North America"/>
+                <countryTN name = "Kingdom of the Netherlands"/>
+                <capitalTN name = "Philipsburg"/>
+                <areaTN name = "13 sq mi"/>
+                <populationTN name = "41,940"/>
+            </territory>
+            <territory name = "Turks and Caicos Islands">
+                <continentTN name = "North America"/>
+                <countryTN name = "United Kingdom"/>
+                <capitalTN name = "Cockburn Town"/>
+                <areaTN name = "366 sq mi"/>
+                <populationTN name = "37,665"/>
+            </territory>
+            <territory name = "United States Virgin Islands">
+                <continentTN name = "North America"/>
+                <countryTN name = "United States"/>
+                <capitalTN name = "Charlotte Amalie"/>
+                <areaTN name =  "134 sq mi"/>
+                <populationTN name = "104,680"/>
+            </territory>
+        </territories>
+    </continent>
+    <continentS name = "South America">
+        <countries>
+            <countryS name = "Argentina">
+                <capitalS name = "Buenos Aires"/>
+                <areaS name = '1,068,300 sq mi'/>
+                <populationS name = "44,361,150"/>
+            </countryS>
+            <countryS name = "Bolivia">
+                <capitalS name = "La Paz, Sucre"/>
+                <areaS name = '424,160 sq mi'/>
+                <populationS name = "11,353,142"/>
+            </countryS>
+            <countryS name = "Brazil">
+                <capitalS name = "Brasília"/>
+                <areaS name = '3,287,612 sq mi'/>
+                <populationS name = "209,469,323"/>
+            </countryS>
+            <countryS name = "Chile">
+                <capitalS name = "Santiago"/>
+                <areaS name = '292,260 sq mi'/>
+                <populationS name = "18,729,160"/>
+            </countryS>
+            <countryS name = "Colombia">
+                <capitalS name = "Bogotá"/>
+                <areaS name = '440,831 sq mi'/>
+                <populationS name = "49,661,048"/>
+            </countryS>
+            <countryS name = "Ecuador">
+                <capitalS name = "Quito"/>
+                <areaS name = '109,480 sq mi'/>
+                <populationS name = "17,084,358"/>
+            </countryS>
+            <countryS name = "Guyana">
+                <capitalS name = "Georgetown"/>
+                <areaS name = '83,012 sq mi'/>
+                <populationS name = "779,006"/>
+            </countryS>
+            <countryS name = "Paraguay">
+                <capitalS name = "Asunción"/>
+                <areaS name = '157,050 sq mi'/>
+                <populationS name = "6,956,066"/>
+            </countryS>
+            <countryS name = "Peru">
+                <capitalS name = "Lima"/>
+                <areaS name = '496,230 sq mi'/>
+                <populationS name = "31,989,260"/>
+            </countryS>
+            <countryS name = "Suriname">
+                <capitalS name = "Paramaribo"/>
+                <areaS name = '63,040 sq mi'/>
+                <populationS name = "575,990"/>
+            </countryS>
+            <countryS name = "Uruguay">
+                <capitalS name = "Montevideo"/>
+                <areaS name = '68,040 sq mi'/>
+                <populationS name = "3,449,285"/>
+            </countryS>
+            <countryS name = "Venezuela">
+                <capitalS name = "Caracas"/>
+                <areaS name = '353,841 sq mi'/>
+                <populationS name = "28,887,118"/>
+            </countryS>
+        </countries>
+        <territories>
+            <territoryS name = "Bouvet Island">
+                <continentTS name = "South America"/>
+                <countryTS name = "Norway"/>
+                <capitalTS name = "N/A"/>
+                <areaTS name = "19 sq mi"/>
+                <populationTS name = "0"/>
+            </territoryS>
+            <territoryS name = "Falkland Islands">
+                <continentTS name = "South America"/>
+                <countryTS name = "United Kingdom"/>
+                <capitalTS name = "Stanley"/>
+                <areaTS name = "4,700 sq mi"/>
+                <populationTS name = "3,234"/>
+            </territoryS>
+            <territoryS name = "South Georgia and the South Sandwich Islands">
+                <continentTS name = "South America"/>
+                <countryTS name = "United Kingdom"/>
+                <capitalTS name = "King Edward Point"/>
+                <areaTS name = "1,194 sq mi"/>
+                <populationTS name = "20"/>
+            </territoryS>
+        </territories>
+    </continentS>
+</continents>
